@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507613659 source:c:\project\c++\hashtable\main.cpp
+	<iostream>
+	<HashNode.h>
+	<KeyHash.h>
+	<HashMap.h>
+
