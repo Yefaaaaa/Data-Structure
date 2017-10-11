@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1507705206 source:c:\project\c++\dfs_bfs\main.cpp
+	<iostream>
+	<queue>
+	"Node.h"
+	"bfs.cpp"
+
+1507697283 c:\project\c++\dfs_bfs\node.h
+	<string.h>
+	<iostream>
+
+1507697283 source:c:\project\c++\dfs_bfs\node.cpp
+	"Node.h"
+
