@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508136953 source:c:\project\c++\anagram\anagram.cpp
+	"anagram.h"
+	<iostream>
+	<algorithm>
+	<String>
+	<cstdio>
+	<cmath>
+
+1508137316 c:\project\c++\anagram\anagram.h
+
